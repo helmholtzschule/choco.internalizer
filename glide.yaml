@@ -1,0 +1,11 @@
+package: github.com/helmholtzschule/choco.internalizer
+import:
+- package: github.com/spf13/cast
+  version: v1.1.0
+- package: github.com/jasonlvhit/gocron
+- package: github.com/jinzhu/configor
+- package: mvdan.cc/xurls
+  version: v1.1.0
+- package: github.com/bradfitz/slice
+- package: github.com/blang/semver
+  version: v3.5.1
